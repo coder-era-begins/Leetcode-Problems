@@ -1,4 +1,4 @@
-class Solution {
+class DFSonConnectedGraph {
     static ArrayList<Integer> list;
     // Function to return a list containing the DFS traversal of the graph.
     public ArrayList<Integer> dfs(ArrayList<ArrayList<Integer>> adj) {
